@@ -1,4 +1,4 @@
 GET http://localhost:2021/api
 ###
 
-GET http://localhost:2021/api/users
+GET http://localhost:2021/api/alunos
